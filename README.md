@@ -1,6 +1,10 @@
 # Programación Multimedia y Dispositivos Móviles
 ## Ejercicios Solucionados
+### Layouts
 - [Ejercicio 0102](https://github.com/pjurado66/Ej0102_23-24)
+- [Ejercicio 0103](https://github.com/pjurado66/Ej0103_23-24)
+### Estilos
+- [Ejercicios 2](https://github.com/pjurado66/Ej02_Estilos)
 <!--
 **pjurado66/pjurado66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
