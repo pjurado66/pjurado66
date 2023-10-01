@@ -1,6 +1,6 @@
 ### Programación Multimedia y Dispositivos Móviles
-## Ejercicios Solucionados
-# Ejercicio 0102
+Ejercicios Solucionados
+Ejercicio 0102
 <!--
 **pjurado66/pjurado66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
