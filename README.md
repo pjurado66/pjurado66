@@ -10,7 +10,8 @@
 - [Ejercicios 2](https://github.com/pjurado66/Ej02_Estilos)
 <!--
 **pjurado66/pjurado66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Explicación Intents
+- [Proyecto de expliación en clase de los intents](https://github.com/pjurado66/Intents)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
