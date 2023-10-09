@@ -2,6 +2,8 @@
 ## Proyectos
 - [Proyecto Desarrrollado en las clases](https://github.com/pjurado66/Curso2223)
 - [Proyecto JetPack Compose](https://github.com/pjurado66/ComposeCurso2223)
+### Explicación Intents
+- [Proyecto de expliación en clase de los intents](https://github.com/pjurado66/Intents)
 ## Ejercicios Solucionados
 ### Layouts
 - [Ejercicio 0102](https://github.com/pjurado66/Ej0102_23-24)
@@ -10,8 +12,7 @@
 - [Ejercicios 2](https://github.com/pjurado66/Ej02_Estilos)
 <!--
 **pjurado66/pjurado66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Explicación Intents
-- [Proyecto de expliación en clase de los intents](https://github.com/pjurado66/Intents)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
