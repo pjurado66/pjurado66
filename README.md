@@ -17,7 +17,7 @@
 - [Ejercicio 0401](https://github.com/pjurado66/Ejercicio0401)
 - [Ejercicio 0403](https://github.com/pjurado66/Ejercicio0403)
 ### Fragments
-- [Ejercicio 0501] (https://github.com/pjurado66/Ejercicio0501.git)
+- [Ejercicio 0501](https://github.com/pjurado66/Ejercicio0501.git)
 - [Ejercicio 0502](https://github.com/pjurado66/Ejercicio0402)
 <!--
 **pjurado66/pjurado66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
